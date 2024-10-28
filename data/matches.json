@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "John Cena vs. Roman Reigns",
+        "date": "2024-11-05",
+        "location": "Madison Square Garden, New York",
+        "votes": 1
+    },
+    {
+        "id": 2,
+        "title": "Becky Lynch vs. Charlotte Flair",
+        "date": "2024-11-06",
+        "location": "TD Garden, Boston",
+        "votes": 0
+    }
+]
