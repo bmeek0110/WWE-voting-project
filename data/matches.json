@@ -1,16 +1,44 @@
 [
     {
         "id": 1,
-        "title": "John Cena vs. Roman Reigns",
-        "date": "2024-11-05",
-        "location": "Madison Square Garden, New York",
+        "title": "Cody Rhodes vs. Gunther",
+        "date": "2024-11-02",
+        "location": "Riyadh",
         "votes": 1
     },
     {
         "id": 2,
-        "title": "Becky Lynch vs. Charlotte Flair",
-        "date": "2024-11-06",
-        "location": "TD Garden, Boston",
+        "title": "Seth Freakin Rollins vs. Big Bronson Reed",
+        "date": "2024-11-02",
+        "location": "Riyadh",
+        "votes": 0
+    },
+    {
+        "id": 3,
+        "title": "Randy Orton vs. KO",
+        "date": "2024-11-02",
+        "location": "Riyadh",
+        "votes": 0
+    },
+    {
+        "id": 4,
+        "title": "Nia Jax vs. Liv Morgan",
+        "date": "2024-11-02",
+        "location": "Riyadh",
+        "votes": 0
+    },
+    {
+        "id": 5,
+        "title": "LA Knight vs. Andrade vs. Carmello Hayes",
+        "date": "2024-11-02",
+        "location": "Riyadh",
+        "votes": 0
+    },
+    {
+        "id": 6,
+        "title": "Jade and Banca vs. Dmg Ctrl vs. Chelsea Greeeeeen and Piper vs. Meta Four",
+        "date": "2024-11-02",
+        "location": "Riyadh",
         "votes": 0
     }
 ]

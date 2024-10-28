@@ -2,5 +2,9 @@
     {
         "username": "bmeek",
         "votes": 1
+    },
+    {
+        "username": "test",
+        "votes": 1
     }
 ]

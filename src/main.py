@@ -1,4 +1,4 @@
-from user_manager import user_login, user_registration
+from user_manager.user_manager import user_login, user_registration
 from display.menu_display import show_main_menu
 import json
 
