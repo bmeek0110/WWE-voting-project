@@ -4,5 +4,41 @@
         "username": "testing",
         "predicted_winner": "Cody Rhodes",
         "timestamp": "2024-10-28T07:35:52.474648"
+    },
+    {
+        "match_id": 1,
+        "username": "bmeek",
+        "predicted_winner": "Gunther",
+        "timestamp": "2024-10-28T08:25:23.479133"
+    },
+    {
+        "match_id": 2,
+        "username": "bmeek",
+        "predicted_winner": "Big Bronson Reed",
+        "timestamp": "2024-10-28T08:25:48.033860"
+    },
+    {
+        "match_id": 3,
+        "username": "bmeek",
+        "predicted_winner": "KO",
+        "timestamp": "2024-10-28T08:26:00.048726"
+    },
+    {
+        "match_id": 4,
+        "username": "bmeek",
+        "predicted_winner": "Liv Morgan",
+        "timestamp": "2024-10-28T08:26:13.818673"
+    },
+    {
+        "match_id": 5,
+        "username": "bmeek",
+        "predicted_winner": "LA Knight",
+        "timestamp": "2024-10-28T08:26:27.345927"
+    },
+    {
+        "match_id": 6,
+        "username": "bmeek",
+        "predicted_winner": "Jade and Bianca",
+        "timestamp": "2024-10-28T08:26:41.357976"
     }
 ]
