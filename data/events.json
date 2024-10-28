@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "match_id": 1,
+        "username": "testing",
+        "predicted_winner": "Cody Rhodes",
+        "timestamp": "2024-10-28T07:35:52.474648"
+    }
+]
