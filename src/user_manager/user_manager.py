@@ -1,15 +1,25 @@
-import json
+from auth_manager import register_user, authenticate_user
 
-def load_users():
-    try:
-        with open('data/users.json', 'r') as f:
-            return json.load(f)
-    except FileNotFoundError:
-        return []
+def user_login():
+    """Handle user login."""
+    username = input("Enter your username: ")
+    password = input("Enter your password: ")
+    
+    if authenticate_user(username, password):
+        print("Login successful!")
+        return username
+    else:
+        print("Invalid username or password.")
+        return None
 
-def authenticate_user(username, password):
-    users = load_users()
-    for user in users:
-        if user['username'] == username and user['password'] == password:
-            return True
-    return False
+def user_registration():
+    """Handle user registration."""
+    username = input("Choose a username: ")
+    password = input("Choose a password: ")
+    
+    if register_user(username, password):
+        print("Registration successful!")
+        return username
+    else:
+        print("Registration failed. Please try again.")
+        return None

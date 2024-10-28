@@ -3,6 +3,7 @@ from leaderboard_manager import display_leaderboard
 
 def show_main_menu(matches, username):
     while True:
+        print(f"\nWelcome, {username}!")
         print("\n" + "=" * 30)
         print("           WWE Voting Menu")
         print("=" * 30)
@@ -10,17 +11,17 @@ def show_main_menu(matches, username):
         display_leaderboard()
         print("\n1. Vote on a match")
         print("2. View Leaderboard")
-        print("3. Exit")
+        print("3. Logout")
         print("=" * 30)
 
         choice = input("Choose an option: ")
-        
+
         if choice == "1":
             vote_on_match(matches, username)
         elif choice == "2":
             display_leaderboard()
         elif choice == "3":
-            print("Thank you for participating! Goodbye!")
+            print("Logging out...")
             break
         else:
             print("Invalid option. Please try again.")
